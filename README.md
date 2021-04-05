@@ -1,19 +1,12 @@
 ### Hi there 👋
-🔭 I am researching on web engineering, especially backend architectures: microservices, web services, distributed systems, event driven systems and monolithics.
-
-🌱 I’m currently learning `Kubernetes`.
-
-👯 I’m looking forward to collaborate on `Web` and `Algo` projects.
-
-🤔 I’m looking for help with `Kubernetes`.
-
-💬 Ask me anything about `webdev` and `software architectures`.
-
-📫 How to reach me: DM me on twitter [@reyadussalahin](https://twitter.com/reyadussalahin), or mail me at [reyadussalahin@gmail.com](mailto:reyadussalahin@gmail.com).
-
-✍️ I tweet about software architectures and backend engineering. Follow me on [twitter](https://twitter.com/reyadussalahin). And soon I'm going to start my own Blog.
-
-⚡ Fun fact: Something must be wrong with our interpretation of `Infinite` and `Limits`.
+🔭 &nbsp; I am researching on web engineering, especially backend architectures: microservices, web services, distributed systems, event driven systems and monolithics.  
+🌱 &nbsp; I’m currently learning `Kubernetes`.  
+👯 &nbsp; I’m looking forward to collaborate on `Web` and `Algo` projects.  
+🤔 &nbsp; I’m looking for help with `Kubernetes`.  
+💬 &nbsp; Ask me anything about `webdev` and `software architectures`.  
+📫 &nbsp; How to reach me: DM me on twitter [@reyadussalahin](https://twitter.com/reyadussalahin), or mail me at [reyadussalahin@gmail.com](mailto:reyadussalahin@gmail.com).  
+✍️ &nbsp; I tweet about software architectures and backend engineering. Follow me on [twitter](https://twitter.com/reyadussalahin). And soon I'm going to start my own Blog.  
+⚡ &nbsp; Fun fact: Something must be wrong with our interpretation of `Infinite` and `Limits`.  
 <!-- - 😄 Pronouns: ... -->
 
 <!--
