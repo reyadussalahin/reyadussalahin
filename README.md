@@ -6,7 +6,7 @@
 💬 &nbsp; Ask me anything about `webdev` and `software architectures`.  
 📫 &nbsp; How to reach me: DM me on twitter [@reyadussalahin](https://twitter.com/reyadussalahin), or mail me at [reyadussalahin@gmail.com](mailto:reyadussalahin@gmail.com).  
 ✍️ &nbsp; I tweet about software architectures and backend engineering. Follow me on [twitter](https://twitter.com/reyadussalahin). And soon I'm going to start my own Blog.  
-⚡ &nbsp; Fun fact: Something must be wrong with our interpretation of `Infinite` and `Limits`.  
+⚡ &nbsp; Fun fact: Something must be wrong with our interpretation of `Zero`, `Infinite` and `Limits`.  
 <!-- - 😄 Pronouns: ... -->
 
 <!--
